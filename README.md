@@ -25,4 +25,4 @@ Bean Life Cycle
     지정된 메소드가 호출된다
 
 
-[![IMAGE ALT TEXT](https://i.ytimg.com/vi/HDR7EETFRdw/maxresdefault.jpg)]( "For You")http://www.youtube.com/watch?v=3-3k-4flMFI?autoplay=1
+[![IMAGE ALT TEXT](http://robot6.comicbookresources.com/wp-content/uploads/2015/06/one-piece-guinness-625x750.jpg)](http://www.youtube.com/watch?v=3-3k-4flMFI?autoplay=1 "For You")
