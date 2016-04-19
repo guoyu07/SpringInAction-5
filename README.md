@@ -23,3 +23,6 @@ Bean Life Cycle
 
 10. 빈이 DisposableBean 인터페이스를 구현하면 스프링은 destroy() 메소드를 호출한다. 마찬가지로 빈이 destroy-method와 함께 선언됐으면
     지정된 메소드가 호출된다
+
+
+[![IMAGE ALT TEXT](https://i.ytimg.com/vi/HDR7EETFRdw/maxresdefault.jpg)]( "For You")http://www.youtube.com/watch?v=3-3k-4flMFI?autoplay=1
