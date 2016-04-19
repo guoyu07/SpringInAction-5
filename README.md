@@ -25,4 +25,4 @@ Bean Life Cycle
     지정된 메소드가 호출된다
 
 
- [![The Naked And Famous - Young Blood](http://img.youtube.com/vi/3-3k-4flMFI/1.jpg)](http://www.youtube.com/watch?v=3-3k-4flMFI?autoplay=1 "The Naked And Famous - Young Blood ")
+ [![The Naked And Famous - Young Blood](http://img.youtube.com/vi/3-3k-4flMFI/0.jpg)](http://www.youtube.com/watch?v=3-3k-4flMFI?autoplay=1 "The Naked And Famous - Young Blood ")
