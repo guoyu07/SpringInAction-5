@@ -3,6 +3,7 @@ package com.crazysnoopy.soundsystem;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Import;
 
 /**
  * Created by crazysnoopy on 16. 5. 27.
@@ -10,6 +11,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 /*@ComponentScan*/
+@Import(CDconfig.class)
 public class CDPlayerConfig {
 
     @Bean(name = "lonelyHeartsClubBand")
